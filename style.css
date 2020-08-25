@@ -1,0 +1,33 @@
+body,
+html {
+	width: 100%;
+	height: 100%;
+	font-family: 'Montserrat', sans-serif;
+	background: url(my.jpg) no-repeat center center fixed; 
+    background-size: cover;
+}
+
+h1 {
+	font-size: 3rem;
+	color: #8CD5C5;
+}
+
+.buffer {
+	height: 50px;
+}
+.btn-xl {
+	font-size: 13px;
+	font-weight: bold;
+	background-color: #1610A0;
+	border-radius: 200px;
+	text-transform: uppercase;
+	border-color: #1610A0;
+}
+.btn-xl:hover {
+	background-color: #050251;
+}
+hr {
+	border-color: #1610A0;
+	border-width: 3px;
+	max-width: 50px;
+}
